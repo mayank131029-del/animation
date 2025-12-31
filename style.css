@@ -126,7 +126,7 @@
         height: 80vh;
         background:
             linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)),
-            url(../images/pexels-pixabay-264905.jpg);
+            url(https://images.pexels.com/photos/264905/pexels-photo-264905.jpeg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -552,4 +552,5 @@
         display: none;
         /* start me hidden */
         z-index: 999;
+
     }
