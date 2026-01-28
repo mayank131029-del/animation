@@ -7,7 +7,7 @@
     :root {
         --menu: url("/images/black menu.png");
         --close: url("/images/black close.png");
-        --themeicon: url("/images/icons8-dark-96.png");
+        --themeicon: url("images/icons8-dark-96.png");
         --cursorClr: #5c5cff;
         --shadow: rgba(80, 80, 252, 0.2);
         --bgcolor: rgb(232, 232, 232);
@@ -23,7 +23,7 @@
         --filter: invert();
         --menu: url("/images/white menu.png");
         --close: url("/images/white close.png");
-        --themeicon: url("/images/icons8-sun-30.png");
+        --themeicon: url("images/icons8-sun-30.png");
         --cursorClr: #EFBF04;
         --shadow: rgba(166, 166, 166, 0.573);
         --bgcolor: #1A1A1D;
@@ -894,4 +894,5 @@ filter: brightness(0) saturate(100%) invert(56%) sepia(50%) saturate(936%) hue-r
         .backclr {
             width: 95%;
         }
+
     }
